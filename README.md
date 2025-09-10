@@ -25,6 +25,3 @@
 ## 🎯 Purpose
 
 SPYLT is designed to **showcase modern web design skills** and **cutting-edge front-end development techniques**. It serves as both a professional portfolio piece and a reference for developers looking to implement **interactive, high-performance web applications** using React, Next.js, and GSAP.
-
-
-Do you want me to do that?
